@@ -12,5 +12,6 @@ The shared folder includes:
 - Source code snippets with labeled vulnerability classes  
 - Preprocessed datasets
 - Inference Datasets
+- Our trained embeddings model saved one
 
 
