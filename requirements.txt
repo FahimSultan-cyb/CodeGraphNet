@@ -1,0 +1,12 @@
+numpy==1.26.4
+numpydoc==1.7.0
+pandas==2.2.2
+pytorch-tabnet==4.1.0
+scikit-learn==1.7.1
+torch-geometric==2.6.1
+torch==2.5.1
+torchaudio==2.5.1
+torchdata==0.10.1
+torchvision==0.20.1
+tqdm==4.67.0
+transformers==4.46.3
